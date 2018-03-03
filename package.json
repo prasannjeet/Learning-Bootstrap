@@ -1,0 +1,18 @@
+{
+  "name": "testingbootstrapfrontend",
+  "version": "1.0.0",
+  "description": "Bootstrap testing with my designs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files 'css/*.css'"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Prasannjeet",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
